@@ -1,0 +1,106 @@
+* {
+    margin: 1;
+    padding: 0;
+    
+}
+
+body
+{background-image: url("../portfolio/imagehands.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+
+div 
+h1 {
+    color:white;
+    font-weight: 350;
+    letter-spacing: 8px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 100px;
+    padding: 100px;
+    margin-top: 20px;
+    margin-bottom: -200px;
+}
+
+
+h2 {
+color: #fff;
+font-size: 60px;
+font-weight: 500px;
+line-height: 50px;
+letter-spacing: 6px;
+margin-bottom: 300px;
+text-align: center;
+line-height: 400px; 
+font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+font-weight: 50%;
+margin: 50px 4px;
+
+}
+
+
+
+div 
+a {    color: white;
+    background-color:black;
+    border-color: #343a40;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 60px;
+    text-align: center;
+    width: 100%;
+    margin-left: 40%;   
+}
+
+
+header {
+    background:black;
+    width: 490;
+    max-width: 5000px;
+    margin: 20px; 
+}
+
+header nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    background-color: #343a40;  
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    float: left;
+}
+
+header nav ul li a {
+    position: relative;
+    padding: 10px 10px;
+    color:black;
+    text-decoration:none;
+    font-weight: 700;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+header nav ul li a:hover {
+background:CBC9C9;
+}
+
+
+footer {
+    background: #000;
+    color: #fff;
+    width: 100%;
+    padding:10px 0px;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0;
+}
